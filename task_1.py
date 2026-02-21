@@ -1,6 +1,4 @@
 
-
-
 def caching_fibonacci():
     cache = {}
     
